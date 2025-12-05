@@ -21,4 +21,4 @@ A professional portfolio showcasing my skills, projects, and experience as a Bus
 ## 📌 Future Improvements
 - Add animations
 - Add marketing blog posts
-- Add a project showcase page
+- Add a project showcase page 
