@@ -1,5 +1,4 @@
-# portfolio-website
-My personal marketing &amp; business portfolio website. Includes projects, skills, and contact information.
+
 # Portfolio Website
 
 A professional portfolio showcasing my skills, projects, and experience as a Business Management student and future SJSU Marketing major.
